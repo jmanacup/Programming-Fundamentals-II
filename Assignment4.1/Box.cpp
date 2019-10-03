@@ -3,9 +3,11 @@
 
 using namespace std;
 
-double Box::getVolume() {
+//function definitions
+double Box::getVolume() { //gets the total volume of the box
 	return length * width * height;
 }
+//mutators
 void Box::setLength(double length) {
 	this->length = length;
 }
@@ -15,6 +17,8 @@ void Box::setBreadth(double width) {
 void Box::setHeight(double height) {
 	this->height = height;
 }
+
+//operator overloading for +
 Box Box::operator+(const Box& right) {
 
 	length += right.length;
