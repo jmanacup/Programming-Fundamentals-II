@@ -1,4 +1,4 @@
-# ProgFundamentalsII
+# Programming Fundamentals II - SPC
 
 **Assignment 1** - deals with pointers  
 **Assignment 2** - deals with struct  
@@ -6,7 +6,7 @@
   
 **APPLICATION OF CLASSES**  
 **Assignment 4.1** - deals with class with in-class methods  
-**Assignment 4.2** - Ticketing Program with the use of mutliple classes  
+**Assignment 4.2** - Ticketing Program with the use of multiple classes  
 **Assignment 5** - class program with the application of inheritance  
 **Assignment 6** - First part: grading system program with the application of try and catch  
 	      Second part: simple array element counter with the application of try and catch  
